@@ -4,9 +4,9 @@
 *Phone number: +375 29 618 70 11*
 *E-mail: instrumentaf@gmail.com*
 
-##SUMMARY
+## SUMMARY
 I believe that I can be an asset to your company because I will show that I have an understanding of the basic skills of JavaScript. I have a passion for programming which i have demonstrated through years of self-study I also have a teachable attitude and a desire to learn (as evidenced by my continued self-study).
-##SKILLS
+## SKILLS
 * HTML
 * CSS
 * Git
