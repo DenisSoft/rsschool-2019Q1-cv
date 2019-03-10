@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+img {
+    width: 100px;
+}
+
+article {
+    display: inline-flex;
+    height: 150px;
+}
+
+.general {
+    display: block;
+    margin: auto;
+    margin-left: 15px;
+    line-height: 32px;
+}
+
+.general p {
+    font-style: italic;
+}
+
+section {
+    margin-top: 15px;
+}
+
+p {
+    line-height: 32px;
+    font-size: 18px;
+}
+
+ul {
+    line-height: 32px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
