@@ -25,3 +25,16 @@ article {
 .general p {
     font-style: italic;
 }
+
+section {
+    margin-top: 15px;
+}
+
+p {
+    line-height: 32px;
+}
+
+ul {
+    line-height: 32px;
+    margin-left: 20px;
+}
